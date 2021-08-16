@@ -3,6 +3,13 @@ persist.audio.button_jack.profile=volume
 persist.audio.button_jack.switch=0
 tunnel.audio.encode=true
 
+#PPUI
+ro.ppui.device_name= Poco F3
+ro.ppui.version=3.8
+ro.ppui.version_code=Hikaru
+ro.ppui.is_official=true
+ro.ppui.maintainer_name=Soumyo
+
 # Blur
 ro.surface_flinger.supports_background_blur=1
 persist.sys.sf.disable_blurs=1
