@@ -4,11 +4,11 @@ persist.audio.button_jack.switch=0
 tunnel.audio.encode=true
 
 #PPUI
-ro.ppui.device_name= Mi11X
-ro.ppui.version=3.9
-ro.ppui.version_code=Eternal
+ro.ppui.device_name= Poco F3
+ro.ppui.version=3.10
+ro.ppui.version_code=Azrael
 ro.ppui.is_official=true
-ro.ppui.maintainer_name=Soumyo
+ro.ppui.maintainer_name=soumyo19
 
 # Blur
 ro.surface_flinger.supports_background_blur=1
